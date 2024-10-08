@@ -1,1 +1,1 @@
-[Test](/image/image1)
+[Test](/images/image1.png)
