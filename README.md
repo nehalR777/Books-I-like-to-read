@@ -1,1 +1,1 @@
-/images/image1.png
+<img src="images/image1.png" alt="Logo Dark">
